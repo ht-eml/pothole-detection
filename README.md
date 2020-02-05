@@ -9,5 +9,5 @@ Detection is done using two techniques
 
 Locations are then saved on a server developed on ruby on rails having the visual map containing the marked locations of potholes that can be viewed by admin.
    
-This repository contains the final apk file along with the android application code and machine learning model files.
+This repository contains the final apk file along with the android application code, rails sever code and machine learning model files.
 # Our Dataset is not available publicly.
