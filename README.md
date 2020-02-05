@@ -1,4 +1,4 @@
-# pothole-detection
+# Pothole-Detection-App
 An Android application built using Artificial Intelligence techniques
 Application detects the potholes on roads and after detecting marks the location of potholes on google map.
 Detection is done using two techniques 
