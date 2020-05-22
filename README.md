@@ -59,6 +59,11 @@ The best-performing methods in the pothole detection problem were SSD MobileNet 
   </p>
    Picture 1 shows the pothole detected with the probability and similarly picture 2 shows the probabilty that car is going on smooth road.
 
+# Application Procedure
+<p float= "centre">
+<img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Screenshot%202020-05-22%20at%209.35.32%20PM.png" width="1060" height="600"/> 
+</p>
+
   # This repository contains
       1. Android App apk 
       2. Android App code
