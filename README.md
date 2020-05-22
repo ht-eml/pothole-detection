@@ -24,9 +24,10 @@ The best-performing methods in the pothole detection problem were SSD MobileNet 
 
 # This repository contains the final apk file along with the android application code, rails sever code and machine learning model files.
 
-
-
-
+<p float= "left">
+<img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Picture%202.png" width="200" height="400"/> 
+<img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Picture%203.png" width="200" height="400"/> 
+</p>
 
 
 
