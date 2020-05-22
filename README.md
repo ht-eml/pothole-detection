@@ -26,6 +26,6 @@ The best-performing methods in the pothole detection problem were SSD MobileNet 
 # Application 
 Here are some screenshots of the pothole detector application
 
-![Main Page](/pictures/picture 2)
+![Main Page](/pictures/Picture 1.png)
 
 
