@@ -20,18 +20,52 @@ The Sensor-based pothole detection model was trained on the dataset collected us
 # Results
 The best-performing methods in the pothole detection problem were SSD MobileNet v2 quantized and LSTM with 0.95 and 0.24 test loss respectively, whereas, the mAP for SSD MobileNet v2 quantized is 81% and test accuracy for LSTM is 96%.
 
-# Our Dataset is not available publicly.
 
-# This repository contains the final apk file along with the android application code, rails sever code and machine learning model files.
-
+# Screenshots from Application
+      Here are some screenshots from the android application.
 <p float= "left">
 <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Picture%202.png" width="200" height="400"/> 
+<img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Picture%204.png" width="200" height="400"/> 
 <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/Picture%203.png" width="200" height="400"/> 
 </p>
 
+ Application's main page allows the user to select the desired method to detect the pothole.
+ While the Map option shows the map having information of recently marked potholes.
 
+# Web Server (Ruby on Rails)
+      Screenshot of web server showing the marked pothole locations from the application.
+<p float= "centre">
+<img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/laptop.jpg" width="600" height="400"/> 
+</p>
+     -Only Admin can access the web server.
+ 
+  # Application detecting potholes using Vision based method
+      Screenshot of application detecting potholes using Vision based method.
+  
+  <p float= "left">
+   <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/p1.JPG" width="200" height="400"/> 
+   <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/p2.JPG" width="200" height="400"/> 
+   <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/p3.JPG" width="200" height="400"/> 
+  </p>
+ 
+   Picture 1,2 & 3 are showing the bounding box with probability on detected potholes.
+   
+   # Application detecting potholes using Sensor based method
+      Screenshot of application detecting potholes using Sensor based method.
+   
+   <p float= "left">
+   <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/pothole.JPG" width="200" height="400"/> 
+   <img src="https://github.com/hamzatanvir/pothole-detection/blob/master/pictures/smooth.JPG" width="200" height="400"/> 
+  </p>
+   Picture 1 shows the pothole detected with the probability and similarly picture 2 shows the probabilty that car is going on smooth road.
 
-
+  # This repository contains
+      1. Android App apk 
+      2. Android App code
+      3. Web server code
+      4. Vision based and Sensor Based model files.
+      
+  # Our Dataset is not available Publicly.
 
 
 
