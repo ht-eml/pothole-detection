@@ -29,3 +29,13 @@ Here are some screenshots of the pothole detector application
 ![Main Page](/pictures/p2.png)
 
 
+
+
+
+
+
+
+
+
+
+
