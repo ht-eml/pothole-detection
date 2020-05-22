@@ -12,7 +12,6 @@ Detection is done using two techniques
 
 Locations are then saved on a server developed on ruby on rails having the visual map containing the marked locations of potholes that can be viewed by admin.
    
-This repository contains the final apk file along with the android application code, rails sever code and machine learning model files.
 
 # Dataset
 The dataset used to solve the pothole detection problem was self-designed, claiming that there is no copyright issue. The dataset was collected from Lahore City roads like Valencia, Allama Iqbal town, Zarrar shaheed road, College road, etc.The dataset was labeled using LabelImg tool.
@@ -23,10 +22,7 @@ The best-performing methods in the pothole detection problem were SSD MobileNet 
 
 # Our Dataset is not available publicly.
 
-# Application 
-Here are some screenshots of the pothole detector application
-
-![Main Page](/pictures/p2.png)
+# This repository contains the final apk file along with the android application code, rails sever code and machine learning model files.
 
 
 
