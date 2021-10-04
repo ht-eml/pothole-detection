@@ -70,7 +70,7 @@ The best-performing methods in the pothole detection problem were SSD MobileNet 
       3. Web server code
       4. Vision based and Sensor Based model files.
       
-  # Our Dataset is not available Publicly.
+  # Our Dataset is Self Collected and not available Publicly.
 
 
 
